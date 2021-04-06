@@ -1,0 +1,119 @@
+
+/* under construction */
+
+.constructionimage{
+  position: absolute;
+  z-index: -4;
+  left: 80px;
+  top: 130px;
+}
+
+.constructionpage{
+  /* margin: 0px 100px; */
+}
+
+.mint{
+  color: #37A3A5;
+
+}
+
+.main{
+  color: #225779;
+  
+}
+
+.constructionstyle{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 80vh;
+  justify-content: center;
+}
+
+.mainheaderlarge{
+  font-family: Roboto;
+font-size: 50px;
+font-style: normal;
+font-weight: 900;
+line-height: 56px;
+letter-spacing: -0.03em;
+text-align: center;
+
+}
+
+.generalparagraphlarge{
+  font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: -0.03em;
+text-align: center;
+
+}
+
+.enquires{
+  font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 900;
+line-height: 29px;
+letter-spacing: -0.03em;
+text-align: center;
+
+}
+
+.enquiresinfo{
+  font-family: Roboto;
+font-size: 25px;
+font-style: normal;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: -0.03em;
+text-align: center;
+
+}
+
+/* end */
+  
+
+/* under construction mobile */
+@media (max-width: 601px) {
+.constructionimage{
+  position: absolute;
+  z-index: -4;
+  left: 80px;
+  top: 130px;
+}
+
+
+
+.mainheaderlarge{
+font-size: 30px;
+line-height: 40px;
+
+
+}
+
+.generalparagraphlarge{
+font-size: 20px;
+line-height: 26px;
+
+}
+
+.enquires{
+font-size: 15px;
+line-height: 10px;
+padding: 5px 0px;
+
+}
+
+.enquiresinfo{
+font-size: 15px;
+line-height: 10px;
+
+}
+
+/* end */
+
+}
